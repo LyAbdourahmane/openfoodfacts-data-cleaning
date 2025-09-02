@@ -19,16 +19,5 @@ Ce projet vise à améliorer la qualité de la base de données Open Food Facts 
 
 - Python (pandas, NumPy, Matplotlib, Seaborn)
 
-## Installation
-
-1. Cloner le dépôt :
-   ```bash
-   git clone https://github.com/tonPseudo/openfoodfacts-data-cleaning.git
-2. Installer les dépendances Python (via requirements.txt si disponible) :
-
-bash
-pip install -r requirements.txt
-Lancer les notebooks ou scripts Python pour reproduire l’analyse.
-
 ## Usage
 Utiliser les notebooks pour explorer et nettoyer les données Open Food Facts, générer des visualisations et préparer un dataset prêt pour un système de suggestion automatique.
